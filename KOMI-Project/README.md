@@ -4,10 +4,8 @@
 <h2>This framework contains sample code containing:</h2>
 	<ul><li>1 feature (feature file)</li>
 	<li>1 Scenarios : Create a user journey test </li>
-	<li>All Test Steps mentioned in the Task 2 of the QA Automation Take Home Assessment document</li>
-
-	  
-
+	<li>All Test Steps mentioned in the Task 2 of the QA Automation Take Home Assessment document which is present in the project folder</li>
+			
 <h2>Steps to run at your system:</h2>
 	<ul>
 	<li>Clone the repository using "git clone <repository url>"</li>
